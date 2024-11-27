@@ -1,5 +1,8 @@
-com\quest\questdemo\config\AppInitializer.class
-com\quest\questdemo\config\HelloWorldController.class
+com\quest\questdemo\config\AppConfig\SecurityWebApplicationInitializer.class
+com\quest\questdemo\config\AppConfig\AppConfig.class
+com\quest\questdemo\test\PasswordHasher.class
 com\quest\questdemo\config\SecurityConfig.class
-com\quest\questdemo\config\SecurityWebApplicationInitializer.class
-com\quest\questdemo\config\AppConfig.class
+com\quest\questdemo\config\AppConfig\AppInitializer.class
+com\quest\questdemo\config\MvcController.class
+com\quest\questdemo\config\DatabaseConfig.class
+com\quest\questdemo\config\OktaOauthConfig.class

@@ -19,5 +19,7 @@
         <a href="/questdemo/profile" class="dropdown-item dropdown-profile">
                                 <i class="fas fa-user mr-3"></i> Profile
                             </a>
+        <p><strong>Username:</strong> ${username}</p>
+    <p><strong>Authorities:</strong> ${authorities}</p>
     </body>
 </html>
